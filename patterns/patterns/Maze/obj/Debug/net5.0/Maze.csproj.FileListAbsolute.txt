@@ -1,0 +1,16 @@
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\bin\Debug\net5.0\Maze.exe
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\bin\Debug\net5.0\Maze.deps.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\bin\Debug\net5.0\Maze.runtimeconfig.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\bin\Debug\net5.0\Maze.runtimeconfig.dev.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\bin\Debug\net5.0\Maze.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\bin\Debug\net5.0\ref\Maze.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\bin\Debug\net5.0\Maze.pdb
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\Maze.csproj.AssemblyReference.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\Maze.AssemblyInfoInputs.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\Maze.AssemblyInfo.cs
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\Maze.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\ref\Maze.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\Maze.pdb
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Maze\obj\Debug\net5.0\Maze.genruntimeconfig.cache
