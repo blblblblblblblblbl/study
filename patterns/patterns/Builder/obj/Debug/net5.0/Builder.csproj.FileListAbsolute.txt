@@ -1,0 +1,16 @@
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
