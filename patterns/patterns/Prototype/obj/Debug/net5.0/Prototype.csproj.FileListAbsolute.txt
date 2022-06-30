@@ -1,0 +1,16 @@
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\Users\stitc\Documents\GitHub\study\patterns\patterns\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
